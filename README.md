@@ -1,6 +1,6 @@
 # University Website
 
-- University website is a simple website with user friendly design that display the detailed information about the university like its Courses and Programs,Campus Locations,Facilities provided by the university and many more
+University website is a simple website with user friendly design that display the detailed information about the university like its Courses and Programs,Campus Locations,Facilities provided by the university and many more
 
 ## Technologies Used
 
